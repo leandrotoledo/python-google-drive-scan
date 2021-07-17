@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Google Drive Scan.
-
-Example:
-
-"""
+"""Google Drive Scan."""
 
 import argparse
 import asyncio

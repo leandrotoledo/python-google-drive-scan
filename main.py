@@ -1,7 +1,4 @@
-"""NIE Google Drive Scan.
-
-Author: Leandro Toledo <leandrotoledo@google.com>
-"""
+"""Google Drive Scan."""
 
 import argparse
 

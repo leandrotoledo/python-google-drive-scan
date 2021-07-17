@@ -46,8 +46,3 @@ class DriveFile:
 
     def __str__(self) -> str:
         return f"{self.path} ({self.url})"
-
-
-__author__ = "leandrotoledodesouza@gmail.com"
-
-__all__ = ("DriveFile",)
